@@ -24,7 +24,7 @@ JavaScript – interactivity and button movement
 
 Clone this repository:
 
-git clone https://github.com/yourusername/love-proposal-page.git
+git clone https://github.com/vaishnavverma/Love-Proposal
 
 
 Open index.html in your browser.
